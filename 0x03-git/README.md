@@ -1,1 +1,1 @@
-This project is about understanding the use og GitHub by using the command line
+This project is about understanding the use og GitHub by using the command line change in GitHub
